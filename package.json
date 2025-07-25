@@ -1,0 +1,25 @@
+{
+  "name": "apk-distribution-ftp-uploader",
+  "version": "1.0.0",
+  "description": "FTP uploader for APK distribution landing page",
+  "main": "ftp-upload.js",
+  "scripts": {
+    "upload": "node ftp-upload.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "dotenv": "^16.4.5"
+  },
+  "keywords": [
+    "ftp",
+    "upload",
+    "apk",
+    "distribution"
+  ],
+  "author": "APK Distribution Site",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 

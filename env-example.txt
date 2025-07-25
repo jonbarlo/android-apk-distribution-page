@@ -1,0 +1,28 @@
+# FTP Configuration for .env file
+# Copy these variables to your .env file and replace with your actual values
+
+# FTP Server hostname (required)
+FTP_HOST=your-ftp-host.com
+
+# FTP Username (required)
+FTP_USER=your-ftp-username
+
+# FTP Password (required)
+FTP_PASSWORD=your-ftp-password
+
+# FTP Port (optional, defaults to 21)
+FTP_PORT=21
+
+# Use FTPS secure connection (optional, defaults to false)
+FTP_SECURE=false
+
+# Remote directory path (optional, defaults to /public_html)
+FTP_REMOTE_DIR=/public_html
+
+# Examples:
+# FTP_HOST=ftp.yourdomain.com
+# FTP_USER=username@yourdomain.com
+# FTP_PASSWORD=your_secure_password
+# FTP_PORT=21
+# FTP_SECURE=false
+# FTP_REMOTE_DIR=/public_html 
