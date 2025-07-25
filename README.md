@@ -2,6 +2,9 @@
 
 A modern, responsive landing page for distributing Android APK files. This is essentially a public Android app store with hardcoded APK files.
 
+<img width="1218" height="915" alt="Screenshot 2025-07-24 213337" src="https://github.com/user-attachments/assets/1357b94a-0c14-4918-b3d8-fd3b5b7da656" />
+
+
 ## Features
 
 - **Modern UI/UX Design** - Beautiful, responsive interface with glassmorphism effects
